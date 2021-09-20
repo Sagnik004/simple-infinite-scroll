@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.main-section {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -5,6 +17,6 @@
 
 img {
   margin: 5px;
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
 }
